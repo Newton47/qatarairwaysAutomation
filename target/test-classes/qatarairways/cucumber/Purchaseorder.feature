@@ -20,9 +20,8 @@ Feature: Purchase the order from Ecommerce Site
       
       
 #Updates from Person -2
-<<<<<<< HEAD
+
 
 #Updates from Person -1-X
 
-=======
->>>>>>> 93700210660bd03c270a9958af01097dd6da0029
+#Updates done by Person X in Develop Branch -2-x
